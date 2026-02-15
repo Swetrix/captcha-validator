@@ -1,5 +1,8 @@
 <img src="https://swetrix.com/assets/logo_blue.png" alt="" height="80" />
 
+> [!NOTE]
+> This repository has been archived. Development has moved to the [Swetrix monorepo](https://github.com/Swetrix/swetrix) under [`packages/captcha-validator`](https://github.com/Swetrix/swetrix/tree/main/packages/captcha-validator). Please open issues and pull requests there instead.
+
 # Swetrix CAPTCHA validator
 This is a wrapper for the Swetrix CAPTCHA server-side validation API.\
 It is used to validate the user's response to the CAPTCHA.\
